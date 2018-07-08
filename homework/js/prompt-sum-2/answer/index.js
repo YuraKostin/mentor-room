@@ -11,4 +11,4 @@ const add = (a, b) => {
     return a + b;
 };
 
-alert(add(Number(x), Number(y)));
+alert(add(x, y));
