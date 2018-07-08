@@ -67,7 +67,5 @@ var add = function () {
 
 ```javascript
 // Современный вариант
-const add = (...args) => {
-    return args.reduce((a, b) => a + b, 0);
-};
+const add = (...args) => args.reduce((a, b) => a + b, 0);
 ```
