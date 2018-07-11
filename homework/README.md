@@ -21,6 +21,9 @@
     * [add, sub, mul, div](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/math-functions)
 
 * Взаимодействуем с пользователем через браузерные окна.
-    * [Работа с пользовательским вводом. Сложение чисел. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum-1)
-    * [Работа с пользовательским вводом. Сложение чисел. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum-2)
-    * [Работа с пользовательским вводом. Сложение чисел. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum-3)
+    * [Сложение чисел. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-1)
+    * [Сложение чисел. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-2)
+    * [Сложение чисел. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-3)
+    
+    * [Калькулятор. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-1)
+    * [Калькулятор. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-2)
