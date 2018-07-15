@@ -1,4 +1,6 @@
 # Tutorials
 
 * HOF - Функции высшего порядка
-    * [HOF 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/tutorials/hof/hof-1)
+    * [HOF 1. Введение](./hof-1)
+    * [HOF 2. Функция фильтрации](./hof-2)
+    * [HOF 3. Отображение данных, функция map](./hof-3)
