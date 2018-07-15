@@ -40,7 +40,7 @@
 На данный момент предполагается три раздела:
 
 * [HomeWork](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/)
-* [Tutorials (в разработке)](https://github.com/YuraKostin/fed-lw-mo/tree/master/tutorials)
+* [Tutorials](https://github.com/YuraKostin/fed-lw-mo/tree/master/tutorials)
 * [Fix me (в разработке)](#)
 
 В процессе разработки которых, я постараюсь вести на этой странице 

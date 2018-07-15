@@ -145,3 +145,4 @@ const odd = filter(item => item % 2 === 0, array);
 console.log('Чётные числа из массива array', odd);
 ```
 
+[Следующая часть](../hof-3)
