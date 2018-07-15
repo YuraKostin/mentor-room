@@ -144,7 +144,9 @@ mapX(3) // 1.5
 Пример 3.
 
 [55.755826, 37.617300] -> Moscow
+
 [51.507351, -0.127758] -> London
+
 [40.712775, -74.005973] -> New-York
 
 Здесь происходит отображение координат на название города.
@@ -170,6 +172,7 @@ const map = (mapFn, array) => {
     for (let i = 0; i < array.length; i++) {
         const item = array[i];
         const mappedItem = mapFn(item);
+        
         result.push(mappedItem);
     }
     
