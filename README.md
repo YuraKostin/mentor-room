@@ -13,7 +13,6 @@
 [webref](https://webref.ru/html), 
 [MDN](https://developer.mozilla.org/ru/docs/Web/HTML)
 
-
 ### css
 * [https://webref.ru/](https://webref.ru/) - современная версия сайта
 [http://htmlbook.ru/](http://htmlbook.ru/)
@@ -40,7 +39,7 @@
 На данный момент предполагается три раздела:
 
 * [HomeWork](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/)
-* [Tutorials](https://github.com/YuraKostin/fed-lw-mo/tree/master/tutorials)
+* [Articles](https://github.com/YuraKostin/fed-lw-mo/tree/master/articles)
 * [Fix me (в разработке)](#)
 
 В процессе разработки которых, я постараюсь вести на этой странице 
