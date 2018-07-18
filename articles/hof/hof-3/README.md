@@ -185,17 +185,17 @@ const apples = [
     {
         color: 'red',
         size: 'medium',
-        wormEated: true,
+        wormEaten: true,
     },
     {
         color: 'green',
         size: 'small',
-        wormEated: false,
+        wormEaten: false,
     },
     {
-        color: 'yello',
+        color: 'yellow',
         size: 'big',
-        wormEated: true,
+        wormEaten: true,
     },
 ];
 

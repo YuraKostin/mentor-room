@@ -1,5 +1,6 @@
 # Articles
 * Введение
+    * [Как учиться?](./introduction/how-to-learn)
     * [Пробуем javascript в инструментах разработчика в браузере](./introduction/how-to-begin-js-in-console)
 * HOF - Функции высшего порядка
     * [HOF 1. Введение](./hof/hof-1)
