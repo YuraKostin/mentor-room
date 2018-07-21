@@ -7,6 +7,9 @@
 Ресурсов по этим темам более чем достаточно:
 
 ### html
+* [HtmlAcademy базовый курс по html](https://htmlacademy.ru/courses/basic-html) - начать
+можно с него, а так - сайт просто кладезь: отличные интерактивные задачи, проверочные работы,
+и не только по html.
 * [https://webref.ru/](https://webref.ru/) - современная версия сайта
 [http://htmlbook.ru/](http://htmlbook.ru/)
 * справочники:
