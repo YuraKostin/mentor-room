@@ -28,3 +28,4 @@
     
     * [Калькулятор. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-1)
     * [Калькулятор. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-2)
+    * [Калькулятор. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-3)
