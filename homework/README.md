@@ -13,8 +13,14 @@
 и/или разрезолвить и уведомить об этом.
 * Влить pull request после одобрения
 * Текстовые ответы на вопросы можно выкладывать в папке с решением дз, в файле с расширением
-* По желанию посмотреть ответ на задачу в папке `answer`, сравнить, обсудить.
 [.md](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+* По желанию посмотреть ответ на задачу в папке `answer`, сравнить, обсудить.
+
+> PS. Не нужно реализовывать то, что явно не указано в задании. Чаще всего задачи разбиты на части
+чтобы постепенно наращивать сложность. Скорее всего то, что вы решили написать для первой части,
+будет реализовано в последующих. Однако ничто не мешает вам написать и сохранить этот код отдельно, 
+чтобы потом воспользоваться им, или продемонстрировать в группе, если в следующих частях нет 
+реализации того, что пришло в голову вам.
 
 ## Задачки
 
@@ -29,3 +35,4 @@
     * [Калькулятор. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-1)
     * [Калькулятор. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-2)
     * [Калькулятор. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-3)
+    * [Калькулятор. Часть 4](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-4)
