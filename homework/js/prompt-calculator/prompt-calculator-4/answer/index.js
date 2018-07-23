@@ -35,7 +35,7 @@ const runCalculator = () => {
         while (true) {
             const answer = prompt(question);
             const isEscPressed = answer === null;
-            const isEmptyString = answer.length === 0;
+            const isEmptyString = !isEscPressed && answer.length === 0;
 
             if (isEscPressed || isEmptyString) {
                 continue;
@@ -53,6 +53,7 @@ const runCalculator = () => {
     const QUESTION_ACTION = 'Type operation (+, -, *, /)';
     const QUESTION_ARGUMENT_1 = 'Type first argument';
     const QUESTION_ARGUMENT_2 = 'Type second argument';
+    const QUESTION_CONFIRM = 'Do you want to calc anything else?';
     const ERROR_MESSAGE_NUMBER_EXPECTED = 'Invalid arguments. Function expect Numbers';
 
     const operations = {
@@ -80,7 +81,7 @@ const runCalculator = () => {
 
     alert(result);
 
-    if (confirm('Do you want to calc anything else?')) {
+    if (confirm(QUESTION_CONFIRM)) {
         runCalculator();
     }
 };
