@@ -12,3 +12,4 @@
     * [Документирование](./js-doc)
 * Паттерны
     * [Наблюдатель(Observer)](./patterns/observer)
+* [Декомпозиция задач](./tasks-decomposition)
