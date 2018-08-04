@@ -25,15 +25,17 @@
 ## Задачки
 
 * Функции от простого к сложному
-    * [add, sub, mul, div](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/math-functions)
+    * [add, sub, mul, div](./js/math-functions)
 
 * Взаимодействуем с пользователем через браузерные окна.
-    * [Сложение чисел. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-1)
-    * [Сложение чисел. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-2)
-    * [Сложение чисел. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-sum/prompt-sum-3)
+    * [Сложение чисел. Часть 1](./js/prompt-sum/prompt-sum-1)
+    * [Сложение чисел. Часть 2](./js/prompt-sum/prompt-sum-2)
+    * [Сложение чисел. Часть 3](./js/prompt-sum/prompt-sum-3)
     
-    * [Калькулятор. Часть 1](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-1)
-    * [Калькулятор. Часть 2](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-2)
-    * [Калькулятор. Часть 3](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-3)
-    * [Калькулятор. Часть 4](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-4)
-    * [Калькулятор. Часть 5. Final](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/js/prompt-calculator/prompt-calculator-5)
+    * [Калькулятор. Часть 1](./js/prompt-calculator/prompt-calculator-1)
+    * [Калькулятор. Часть 2](./js/prompt-calculator/prompt-calculator-2)
+    * [Калькулятор. Часть 3](./js/prompt-calculator/prompt-calculator-3)
+    * [Калькулятор. Часть 4](./js/prompt-calculator/prompt-calculator-4)
+    * [Калькулятор. Часть 5. Final](./js/prompt-calculator/prompt-calculator-5)
+
+* [Web calculator](./js/calculator/part-1)
