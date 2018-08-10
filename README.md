@@ -42,9 +42,9 @@ roadmap, который будет соответствовать моему п�
 * [Декомпозиция задач](./articles/tasks-decomposition)
 * Web Calculator
     * [Часть 1. Планируем свою работу](./homework/js/calculator/part-1)
-    * [Часть 2. Вёрстка](./homework/js/calculator/part-1)
+    * [Часть 2. Вёрстка](./homework/js/calculator/part-2)
     * [Паттерн Наблюдатель(Observer)](./articles/patterns/observer)
-    * [Часть 1. Обработчики событий](./homework/js/calculator/part-1)
+    * [Часть 3. Обработчики событий](./homework/js/calculator/part-3)
 #### <a id="learning-info"></a>Справочная информация
 
 ### html
