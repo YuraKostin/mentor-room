@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+<div class="app">
+    <h1 class="title">Calculator</h1>
+
+    <div class="flow">
+        <div class="flow-item argument argument-1">
+            <label class="flow-item__label">Argument 1</label>
+            <span class="flow-item__value"></span>
+        </div>
+
+        <div class="flow-item operation">
+            <label class="flow-item__label">Operation</label>
+            <span class="flow-item__value"></span>
+        </div>
+
+        <div class="flow-item argument argument-2">
+            <label class="flow-item__label">Argument 2</label>
+            <span class="flow-item__value"></span>
+        </div>
+
+        <div class="flow-item result">
+            <label class="flow-item__label">Result</label>
+            <span class="flow-item__value"></span>
+        </div>
+    </div>
+
+    <div class="operations" id="operations">
+        <button class="operations__item">C</button>
+        <button class="operations__item">+</button>
+        <button class="operations__item">-</button>
+        <button class="operations__item">*</button>
+        <button class="operations__item">/</button>
+    </div>
+
+    <div class="digits" id="digits">
+        <button class="digits__item">0</button>
+        <button class="digits__item">1</button>
+        <button class="digits__item">2</button>
+        <button class="digits__item">3</button>
+        <button class="digits__item">4</button>
+        <button class="digits__item">5</button>
+        <button class="digits__item">6</button>
+        <button class="digits__item">7</button>
+        <button class="digits__item">8</button>
+        <button class="digits__item">9</button>
+    </div>
+</div>
+
+<script src="./index.js"></script>
+</body>
+</html>
