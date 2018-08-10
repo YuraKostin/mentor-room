@@ -1,10 +1,51 @@
 # Frontend Developer's learning way(my opinion)
 
 В этом с позволения сказать гайде, предполагается, 
-что вы уже знаете(но имеете мало опыта), или
-находитесь в процессе изучения `html`, `css`, `js` и `git` технологий.
+что вы уже знаете(но имеете мало опыта) `html`, `css`, `js` и `git`.
 
-Ресурсов по этим темам более чем достаточно:
+Если нет, то есть [множество ресурсов](#learning-info), на которых можно начать
+знакомство с этими технологиями.
+
+---
+
+На данный момент предполагается три раздела:
+
+* [HomeWork](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/)
+* [Articles](https://github.com/YuraKostin/fed-lw-mo/tree/master/articles)
+* [Fix me (в разработке)](#)
+
+В процессе разработки которых, я постараюсь вести на этой странице 
+roadmap, который будет соответствовать моему пониманию того, как выглядит 
+путь от простого к сложному.
+
+#### Roadmap
+
+* Введение
+    * [Как учиться?](./articles/introduction/how-to-learn)
+    * [Как начать использовать html?](./articles/introduction/how-to-begin-with-html)
+    * [Пробуем javascript в инструментах разработчика в браузере](./articles/introduction/how-to-begin-js-in-console)
+* Функции от простого к сложному
+  * [add, sub, mul, div](./homework/js/math-functions/)
+* Взаимодействуем с пользователем через браузерные окна.
+    * [Сложение чисел. Часть 1](./homework/js/prompt-sum/prompt-sum-1)
+    * [Сложение чисел. Часть 2](./homework/js/prompt-sum/prompt-sum-2)
+    * [Сложение чисел. Часть 3](./homework/js/prompt-sum/prompt-sum-3)
+    * [Калькулятор. Часть 1](./homework/js/prompt-calculator/prompt-calculator-1)
+    * [Калькулятор. Часть 2](./homework/js/prompt-calculator/prompt-calculator-2)
+    * [Калькулятор. Часть 3](./homework/js/prompt-calculator/prompt-calculator-3)
+    * HOF - Функции высшего порядка
+        * [HOF 1. Введение](./articles/hof/hof-1)
+        * [HOF 2. Функция фильтрации](./articles/hof/hof-2)
+        * [HOF 3. Отображение данных, функция map](./articles/hof/hof-3)
+    * [Калькулятор. Часть 4](./homework/js/prompt-calculator/prompt-calculator-4)
+    * [Калькулятор. Часть 5. Final](./homework/js/prompt-calculator/prompt-calculator-5)
+* [Декомпозиция задач](./articles/tasks-decomposition)
+* Web Calculator
+    * [Часть 1. Планируем свою работу](./homework/js/calculator/part-1)
+    * [Часть 2. Вёрстка](./homework/js/calculator/part-1)
+    * [Паттерн Наблюдатель(Observer)](./articles/patterns/observer)
+    * [Часть 1. Обработчики событий](./homework/js/calculator/part-1)
+#### <a id="learning-info"></a>Справочная информация
 
 ### html
 * [HtmlAcademy базовый курс по html](https://htmlacademy.ru/courses/basic-html) - начать
@@ -36,22 +77,3 @@
 
 Ресурсов гораздо больше, чем указано тут, и будет отлично, 
 если вы найдёте то, что вам по душе.
-
----
-
-На данный момент предполагается три раздела:
-
-* [HomeWork](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/)
-* [Articles](https://github.com/YuraKostin/fed-lw-mo/tree/master/articles)
-* [Fix me (в разработке)](#)
-
-В процессе разработки которых, я постараюсь вести на этой странице 
-roadmap, который будет соответствовать моему пониманию того, как выглядит 
-путь от простого к сложному.
-
-#### Roadmap
-
-* Введение
-    * [Как учиться?](./articles/introduction/how-to-learn)
-    * [Как начать использовать html?](./articles/introduction/how-to-begin-with-html)
-    * [Пробуем javascript в инструментах разработчика в браузере](./articles/introduction/how-to-begin-js-in-console)
