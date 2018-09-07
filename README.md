@@ -10,8 +10,8 @@
 
 На данный момент предполагается три раздела:
 
-* [HomeWork](https://github.com/YuraKostin/fed-lw-mo/tree/master/homework/)
-* [Articles](https://github.com/YuraKostin/fed-lw-mo/tree/master/articles)
+* [HomeWork](https://github.com/YuraKostin/mentor-room/tree/master/homework/)
+* [Articles](https://github.com/YuraKostin/mentor-room/tree/master/articles)
 * [Fix me (в разработке)](#)
 
 В процессе разработки которых, я постараюсь вести на этой странице 
@@ -45,6 +45,8 @@ roadmap, который будет соответствовать моему п�
     * [Часть 2. Вёрстка](./homework/js/calculator/part-2)
     * [Паттерн Наблюдатель(Observer)](./articles/patterns/observer)
     * [Часть 3. Обработчики событий](./homework/js/calculator/part-3)
+    * [Часть 4. Хранение данных в html](./homework/js/calculator/part-4)
+    * [Часть 5. Кривая дорожка](./homework/js/calculator/part-5)
 #### <a id="learning-info"></a>Справочная информация
 
 ### html

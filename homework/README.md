@@ -40,4 +40,9 @@
     * [Калькулятор. Часть 4](./js/prompt-calculator/prompt-calculator-4)
     * [Калькулятор. Часть 5. Final](./js/prompt-calculator/prompt-calculator-5)
 
-* [Web calculator](./js/calculator/part-1)
+* Web calculator
+    * [Часть 1. Планируем свою работу](./js/calculator/part-1)
+    * [Часть 2. Вёрстка](./js/calculator/part-2)
+    * [Часть 3. Обработчики событий](./js/calculator/part-3)
+    * [Часть 4. Хранение данных в html](./js/calculator/part-4)
+    * [Часть 5. Кривая дорожка](./js/calculator/part-5)

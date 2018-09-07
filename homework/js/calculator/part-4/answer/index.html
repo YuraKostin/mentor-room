@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+    <div id="app" class="app">
+        <h1 class="title">Calculator</h1>
+
+        <div class="flow">
+            <div class="flow-item argument argument-1">
+                <label class="flow-item__label">Argument 1</label>
+                <span class="flow-item__value"></span>
+            </div>
+
+            <div class="flow-item operation">
+                <label class="flow-item__label">Operation</label>
+                <span class="flow-item__value"></span>
+            </div>
+
+            <div class="flow-item argument argument-2">
+                <label class="flow-item__label">Argument 2</label>
+                <span class="flow-item__value"></span>
+            </div>
+
+            <div class="flow-item result">
+                <label class="flow-item__label">Result</label>
+                <span class="flow-item__value"></span>
+            </div>
+        </div>
+
+        <div id="operations" class="operations">
+            <button class="operations__item" data-operation="clear">C</button>
+            <button class="operations__item" data-operation="+">+</button>
+            <button class="operations__item" data-operation="-">-</button>
+            <button class="operations__item" data-operation="*">*</button>
+            <button class="operations__item" data-operation="/">/</button>
+        </div>
+
+        <div id="digits" class="digits">
+            <button class="digits__item" data-digit="0">0</button>
+            <button class="digits__item" data-digit="1">1</button>
+            <button class="digits__item" data-digit="2">2</button>
+            <button class="digits__item" data-digit="3">3</button>
+            <button class="digits__item" data-digit="4">4</button>
+            <button class="digits__item" data-digit="5">5</button>
+            <button class="digits__item" data-digit="6">6</button>
+            <button class="digits__item" data-digit="7">7</button>
+            <button class="digits__item" data-digit="8">8</button>
+            <button class="digits__item" data-digit="9">9</button>
+        </div>
+
+    </div>
+
+    <script src="./index.js"></script>
+</body>
+</html>
