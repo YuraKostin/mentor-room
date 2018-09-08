@@ -1,0 +1,78 @@
+.app {
+    width: 240px;
+    margin: 40px auto;
+}
+
+.title {
+    font-family: Arial, sans-serif;
+    color: #FFA400;
+}
+
+.result {
+    margin: 20px 0;
+    text-align: right;
+    border-top: 2px solid #BF8C30;
+    border-bottom: 2px solid #BF8C30;
+    border-radius: 4px;
+    width: 100%;
+    display: block;
+    font-size: 1.2rem;
+    height: 4.8rem;
+}
+
+.input {
+    display: block;
+    padding: 5px 10px;
+    width: calc(100% - 24px);
+    text-align: right;
+}
+
+.buttons {
+    margin: 10px 0 0;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.buttons .buttons__item {
+    padding: 10px 0;
+    background: transparent;
+    border: 2px solid;
+    border-radius: 4px;
+    font-weight: bold;
+}
+
+.buttons_first-set .buttons__item {
+    width: 40px;
+    padding: 10px 0;
+    margin: 0 5px;
+    border-color: #DE0052;
+    color: #A62A58;
+    transition: background .2s ease-out;
+}
+
+.buttons_first-set .buttons__item.clicked {
+    background: #EE3C7E;
+}
+
+.buttons_second-set .buttons__item {
+    width: 60px;
+    padding: 10px 0;
+    margin: 5px;
+    border-color: #D8F800;
+    color: #A8BA2F;
+    transition: background .2s ease-out;
+}
+
+.buttons_second-set .buttons__item.clicked {
+    background: #E3FC3F;
+}
+
+.buttons_second-set .buttons__item_command-clear {
+    border-color: #DE0052;
+    color: #A62A58
+}
+
+.buttons_second-set .buttons__item_command-clear.clicked {
+    background: #EE3C7E;
+}
